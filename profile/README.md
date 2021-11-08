@@ -4,10 +4,10 @@
  <p align="center">We work to do interesting things and make people safe</p>
 </p>
   <p align="center">
-    <embed src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=system.cpu&alarm=10min_cpu_usage&refresh=auto" type="image/svg+xml" height="20"/>
-    <embed src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=system.ram&alarm=ram_in_use&refresh=auto" type="image/svg+xml" height="20"/>
-    <embed src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=disk_space._&alarm=disk_space_usage&refresh=auto" type="image/svg+xml" height="20"/>
-    <embed src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=system.swap&alarm=used_swap&refresh=auto" type="image/svg+xml" height="20"/>
+    <img src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=system.cpu&alarm=10min_cpu_usage&refresh=auto" type="image/svg+xml" height="20"/>
+    <img src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=system.ram&alarm=ram_in_use&refresh=auto" type="image/svg+xml" height="20"/>
+    <img src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=disk_space._&alarm=disk_space_usage&refresh=auto" type="image/svg+xml" height="20"/>
+    <img src="https://sys.volcanoyt.com//api/v1/badge.svg?chart=system.swap&alarm=used_swap&refresh=auto" type="image/svg+xml" height="20"/>
   </p>
 
   <p align="center">
